@@ -21,3 +21,4 @@ A good party also has a theme and decorations that match. Let's create a compone
 ## Resources
 - [React.Children](https://facebook.github.io/react/docs/top-level-api.html#react.children)
 - [Children prop types](https://facebook.github.io/react/tips/children-props-type.html)
+<p data-visibility='hidden'>PHRG React this.props.children Lab</p>
